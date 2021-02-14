@@ -4,7 +4,7 @@ module.exports = {
         //     host:'localhost',
         //     user: 'root',
         //     password: 'samsung',
-        //     database: 'database_link',
+        //     database: 'database_link's
     
         // }
 
@@ -13,7 +13,7 @@ module.exports = {
                 user: 'rl_root',
                 password: '#Sofia21',
                 database: 'database_link',
-        
+                port: 3306
             }
     
     };
